@@ -1,8 +1,9 @@
-## Hi, i'm George from Kazan, programmer & businessmen
+## Georgios aka George aka gato vermelho aka brun kat
 ### My projects
-#### Rece Developers - https://lp.rdevelopers.ru (russian)
+#### Rece Developers - https://rdevelopers.ru (russian)
 #### Assistant Oleonka - https://oleonka.rdevelopers.ru (russian)
+#### tgbio - https://tg.oleonka.rdevelopers.ru/rdgbiobot (english/russian)
 #### Jivopolis Game - https://tg.oleonka.rdevelopers.ru/ZhivopolisGameRobot (russian)
 ### Contacts
-#### Telegram - https://tg.oleonka.rdevelopers.ru/gato_vermelho
+#### Telegram - @gato_vermelho, @rece2021
 #### E-mail - george@rdevelopers.ru
