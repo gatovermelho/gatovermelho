@@ -1,9 +1,9 @@
-## Georgios aka George aka gato vermelho aka brun kat
+## George aka gato vermelho
 ### My projects
-#### Rece Developers - https://rdevelopers.ru (russian)
-#### Assistant Oleonka - https://oleonka.rdevelopers.ru (russian)
-#### tgbio - https://tg.oleonka.rdevelopers.ru/rdgbiobot (english/russian)
-#### Jivopolis Game - https://tg.oleonka.rdevelopers.ru/ZhivopolisGameRobot (russian)
+Rece Developers - https://rdevelopers.ru (russian)\
+Assistant Oleonka - https://oleonka.rdevelopers.ru (russian)\
+tgbio - https://tg.oleonka.rdevelopers.ru/rdgbiobot (english/russian)\
+Jivopolis Game - https://tg.oleonka.rdevelopers.ru/ZhivopolisGameRobot (russian)\
 ### Contacts
-#### Telegram - @gato_vermelho, @rece2021
-#### E-mail - george@rdevelopers.ru
+Telegram - @rece2021\
+E-mail - george@rdevelopers.ru\
